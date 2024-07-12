@@ -1,0 +1,8 @@
+# Folders
+config.cfg
+venv/
+__pycache__/
+logs/*.txt
+
+
+
